@@ -1,6 +1,15 @@
 # Media Knob
 
-Stand alone media control knob, with easy volume control, play/pause, mute/un-mute and prev+next skipping.
+Stand-alone media control knob, that works cross platform (its just a keyboard)
+
+![Media Knob Example](./assets/media-knob.jpg)
+
+## Controls
+
+- press: Play / Pause
+- double press: Mute / Un-mute
+- rotate: volume up and down
+- hold (400ms) and rotate: previous / next
 
 ## Requirements
 
@@ -17,13 +26,6 @@ Stand alone media control knob, with easy volume control, play/pause, mute/un-mu
 3. upload the media-knob script to the Pro Micro
 4. wire up the board and rotary encoder
 5. assemble
-
-## Controls
-
-- click: Play / Pause
-- double click: Mute / Un-mute
-- rotate: volume up and down
-- hold (400ms) and rotate: previous / next
 
 ## Extra
 
