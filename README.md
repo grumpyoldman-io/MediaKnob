@@ -1,5 +1,7 @@
 # Media Knob
 
+[![Hippocratic License HL3-FULL](https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-FULL&labelColor=5e2751&color=bc8c3d)](https://firstdonoharm.dev/version/3/0/full.html)
+
 Stand-alone media control knob, that works cross platform (its just a keyboard)
 
 ![Media Knob Example](./assets/media-knob.jpg)
